@@ -1,0 +1,30 @@
+.container {
+  height: 70%;
+  width: 100%;
+  margin-top: 50px;
+  overflow:auto;
+}
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  float: left;
+
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+  margin-left: 20px; 
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  float: left;
+  margin-left: 20px;
+}
